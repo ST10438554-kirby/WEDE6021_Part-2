@@ -1,0 +1,6 @@
+Name,Email,Password(Hash),Role
+John Doe,john@gmail.com,29ef52e7563626a96cea7f4b4085c124,1
+Jane Smith,jane@gmail.com,29ef52e7563626a96cea7f4b4085c124,0
+Mike Brown,mike@gmail.com,29ef52e7563626a96cea7f4b4085c124,1
+Sara Lee,sara@gmail.com,29ef52e7563626a96cea7f4b4085c124,0
+Chris Green,chris@gmail.com,29ef52e7563626a96cea7f4b4085c124,1
