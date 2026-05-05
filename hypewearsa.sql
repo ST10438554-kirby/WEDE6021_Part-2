@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 05, 2026 at 03:58 PM
+-- Generation Time: May 05, 2026 at 07:48 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.0.30
 
@@ -124,9 +124,9 @@ CREATE TABLE `tbluser` (
 --
 
 INSERT INTO `tbluser` (`user_id`, `name`, `email`, `password`, `role`, `verified`) VALUES
-(1, 'John Doe', 'john@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 1, 0),
-(2, 'Jane Smith', 'jane@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 0, 0),
-(3, 'Mike Brown', 'mike@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 1, 0),
+(1, 'John Doe', 'john@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 1, 1),
+(2, 'Jane Smith', 'jane@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 0, 1),
+(3, 'Mike Brown', 'mike@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 1, 1),
 (4, 'Sara Lee', 'sara@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 0, 0),
 (5, 'Chris Green', 'chris@gmail.com', '29ef52e7563626a96cea7f4b4085c124', 1, 0);
 
@@ -250,3 +250,4 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
