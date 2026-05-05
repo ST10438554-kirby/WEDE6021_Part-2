@@ -1,0 +1,8 @@
+// Username,Password(Hash)
+
+
+admin,29ef52e7563626a96cea7f4b4085c124
+manager,29ef52e7563626a96cea7f4b4085c124
+supervisor,29ef52e7563626a96cea7f4b4085c124
+owner,29ef52e7563626a96cea7f4b4085c124
+staff,29ef52e7563626a96cea7f4b4085c124
